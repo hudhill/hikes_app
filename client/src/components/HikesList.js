@@ -1,0 +1,1 @@
+// sidebar with list of hikes to scroll through

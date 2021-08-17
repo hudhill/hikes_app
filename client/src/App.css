@@ -1,0 +1,19 @@
+.leaflet-container { /* set to take up whole screen for now, will change */
+  width: 100%;
+  height: 100vh; /* this is percentage, of viewport height */
+}
+
+.collapsed {
+  display: none;
+  /* overflow: hidden; */
+}
+
+.active, .spot:hover {
+  color:grey;
+}
+
+.spot {
+  background-color: white;
+  border: none;
+  cursor: pointer;
+}
